@@ -1,0 +1,15 @@
+C:\Users\Dark\Documents\UNI\Practica 1\U20230358_Practica1\bin\Debug\net7.0\U20230358_Practica1.exe
+C:\Users\Dark\Documents\UNI\Practica 1\U20230358_Practica1\bin\Debug\net7.0\U20230358_Practica1.deps.json
+C:\Users\Dark\Documents\UNI\Practica 1\U20230358_Practica1\bin\Debug\net7.0\U20230358_Practica1.runtimeconfig.json
+C:\Users\Dark\Documents\UNI\Practica 1\U20230358_Practica1\bin\Debug\net7.0\U20230358_Practica1.dll
+C:\Users\Dark\Documents\UNI\Practica 1\U20230358_Practica1\bin\Debug\net7.0\U20230358_Practica1.pdb
+C:\Users\Dark\Documents\UNI\Practica 1\U20230358_Practica1\obj\Debug\net7.0\U20230358_Practica1.csproj.AssemblyReference.cache
+C:\Users\Dark\Documents\UNI\Practica 1\U20230358_Practica1\obj\Debug\net7.0\U20230358_Practica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dark\Documents\UNI\Practica 1\U20230358_Practica1\obj\Debug\net7.0\U20230358_Practica1.AssemblyInfoInputs.cache
+C:\Users\Dark\Documents\UNI\Practica 1\U20230358_Practica1\obj\Debug\net7.0\U20230358_Practica1.AssemblyInfo.cs
+C:\Users\Dark\Documents\UNI\Practica 1\U20230358_Practica1\obj\Debug\net7.0\U20230358_Practica1.csproj.CoreCompileInputs.cache
+C:\Users\Dark\Documents\UNI\Practica 1\U20230358_Practica1\obj\Debug\net7.0\U20230358_Practica1.dll
+C:\Users\Dark\Documents\UNI\Practica 1\U20230358_Practica1\obj\Debug\net7.0\refint\U20230358_Practica1.dll
+C:\Users\Dark\Documents\UNI\Practica 1\U20230358_Practica1\obj\Debug\net7.0\U20230358_Practica1.pdb
+C:\Users\Dark\Documents\UNI\Practica 1\U20230358_Practica1\obj\Debug\net7.0\U20230358_Practica1.genruntimeconfig.cache
+C:\Users\Dark\Documents\UNI\Practica 1\U20230358_Practica1\obj\Debug\net7.0\ref\U20230358_Practica1.dll
